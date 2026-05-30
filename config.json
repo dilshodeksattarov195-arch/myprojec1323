@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspender",
+        "uuid": 8976555,
+        "checksum": "tvfmc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
